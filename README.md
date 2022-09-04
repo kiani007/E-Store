@@ -12,8 +12,9 @@ data from the cart will be removed
 
 You can singly delete item from the cart 
  
-
-
+project includes : functional component, Routing, useContext, useStates, useEffects, useMemo, useRef Hooks and different functionalities of mapping data etc
+#Check this out the app here
+https://wondrous-taffy-9ac282.netlify.app/
 
 
 
